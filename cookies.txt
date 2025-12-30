@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dcloud.net.cn	TRUE	/	FALSE	1999999999	__uni__uid	2yld2GlSx72xf1pNA0tfAg==
+cdn.dcloud.net.cn	TRUE	/	FALSE	1999999999	samesite	none
+
